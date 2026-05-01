@@ -7,6 +7,6 @@
 💵 BINGX рефералы получают скидку на комиссию в 25% и БЕСПЛАТНЫЙ КУРС по алготрейдингу - https://bingxdao.com/partner/maniacdt/
 
 Ссылка на API - https://bingx-api.github.io/docs-v3/#/en
-Ссылка на итоговый код из ролика - https://bingx-api.github.io/docs-v3/#/en
+
 
 
